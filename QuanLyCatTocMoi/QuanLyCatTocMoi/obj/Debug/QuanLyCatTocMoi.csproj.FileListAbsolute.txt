@@ -1,0 +1,13 @@
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\bin\Debug\QuanLyCatTocMoi.exe.config
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\bin\Debug\QuanLyCatTocMoi.exe
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\bin\Debug\QuanLyCatTocMoi.pdb
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.csproj.AssemblyReference.cache
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.Form1.resources
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.FormDangKy.resources
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.Properties.Resources.resources
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.exe
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.pdb
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatTocMoi.exe.config
+C:\Users\HAI\Downloads\WEDSPORT\QuanLyCatTocMoi\QuanLyCatTocMoi\obj\Debug\QuanLyCatToc.FormDangNhap.resources
